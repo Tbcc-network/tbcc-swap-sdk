@@ -39,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bscswap-sdk" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -52,7 +52,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604660896659</updated>
-      <workItem from="1604660898516" duration="887000" />
+      <workItem from="1604660898516" duration="927000" />
+      <workItem from="1604661838417" duration="25000" />
+      <workItem from="1604664830153" duration="303000" />
     </task>
     <servers />
   </component>
@@ -69,5 +71,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="177" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604664879397">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="2422" y="155" width="424" height="491" key="FileChooserDialogImpl/1920.0.1366.768/0.27.1920.1053@1920.0.1366.768" timestamp="1604661860153" />
+    <state x="548" y="177" key="FileChooserDialogImpl/1920.0.1366.768/72.27.1294.741@72.27.1294.741" timestamp="1604664879397" />
   </component>
 </project>
