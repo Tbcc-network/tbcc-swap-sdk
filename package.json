@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tbcc-network/uniswap-sdk.git"
+    "url": "git+https://github.com/Tbcc-network/tbcc-swap-sdk.git"
   },
   "author": "",
   "license": "ISC",
